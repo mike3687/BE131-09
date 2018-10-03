@@ -1,0 +1,6 @@
+*.bam
+*.sam
+*.bai
+*.tab
+*.fastq
+
