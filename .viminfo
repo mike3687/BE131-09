@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1538598112,,"wq"
+|2,0,1538598249,,"wq"
 :q
 |2,0,1538521414,,"q"
 :q!
@@ -27,38 +27,61 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
+""-	CHAR	0
+	 
+|3,1,36,0,1,0,1538598216," "
 
 # File marks:
-'0  6  0  ~/.gitignore
-|4,48,6,0,1538598112,"~/.gitignore"
-'1  1  0  ~/lab_6/RHnew.tab
-|4,49,1,0,1538597397,"~/lab_6/RHnew.tab"
-'2  2  0  ~/lab_6/RHnew.sam
-|4,50,2,0,1538597395,"~/lab_6/RHnew.sam"
-'3  1  0  ~/lab_6/RHnew.sam
-|4,51,1,0,1538597395,"~/lab_6/RHnew.sam"
-'4  333  0  ~/lab_6/R_S.tab
-|4,52,333,0,1538597392,"~/lab_6/R_S.tab"
-'5  133  0  ~/lab_6/RHnew.sam
-|4,53,133,0,1538521414,"~/lab_6/RHnew.sam"
-'6  1  0  ~/lab_6/RHnew.tab
-|4,54,1,0,1538520386,"~/lab_6/RHnew.tab"
-'7  91  0  ~/lab_6/RHnew.sam
-|4,55,91,0,1538520127,"~/lab_6/RHnew.sam"
+'0  2  56  ~/README.md
+|4,48,2,56,1538598249,"~/README.md"
+'1  6  0  ~/.gitignore
+|4,49,6,0,1538598112,"~/.gitignore"
+'2  1  0  ~/lab_6/RHnew.tab
+|4,50,1,0,1538597397,"~/lab_6/RHnew.tab"
+'3  2  0  ~/lab_6/RHnew.sam
+|4,51,2,0,1538597395,"~/lab_6/RHnew.sam"
+'4  1  0  ~/lab_6/RHnew.sam
+|4,52,1,0,1538597395,"~/lab_6/RHnew.sam"
+'5  333  0  ~/lab_6/R_S.tab
+|4,53,333,0,1538597392,"~/lab_6/R_S.tab"
+'6  133  0  ~/lab_6/RHnew.sam
+|4,54,133,0,1538521414,"~/lab_6/RHnew.sam"
+'7  1  0  ~/lab_6/RHnew.tab
+|4,55,1,0,1538520386,"~/lab_6/RHnew.tab"
 '8  91  0  ~/lab_6/RHnew.sam
 |4,56,91,0,1538520127,"~/lab_6/RHnew.sam"
-'9  1  0  ~/lab_6/RHnew.tan
-|4,57,1,0,1538511257,"~/lab_6/RHnew.tan"
+'9  91  0  ~/lab_6/RHnew.sam
+|4,57,91,0,1538520127,"~/lab_6/RHnew.sam"
 
 # Jumplist (newest first):
+-'  2  56  ~/README.md
+|4,39,2,56,1538598249,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1538598216,"~/README.md"
 -'  6  0  ~/.gitignore
 |4,39,6,0,1538598112,"~/.gitignore"
+-'  6  0  ~/.gitignore
+|4,39,6,0,1538598112,"~/.gitignore"
+-'  1  0  ~/.gitignore
+|4,39,1,0,1538598045,"~/.gitignore"
 -'  1  0  ~/.gitignore
 |4,39,1,0,1538598045,"~/.gitignore"
 -'  1  0  ~/lab_6/RHnew.tab
 |4,39,1,0,1538597397,"~/lab_6/RHnew.tab"
 -'  1  0  ~/lab_6/RHnew.tab
 |4,39,1,0,1538597397,"~/lab_6/RHnew.tab"
+-'  1  0  ~/lab_6/RHnew.tab
+|4,39,1,0,1538597397,"~/lab_6/RHnew.tab"
+-'  1  0  ~/lab_6/RHnew.tab
+|4,39,1,0,1538597397,"~/lab_6/RHnew.tab"
+-'  2  0  ~/lab_6/RHnew.sam
+|4,39,2,0,1538597395,"~/lab_6/RHnew.sam"
+-'  1  0  ~/lab_6/RHnew.sam
+|4,39,1,0,1538597395,"~/lab_6/RHnew.sam"
+-'  2  0  ~/lab_6/RHnew.sam
+|4,39,2,0,1538597395,"~/lab_6/RHnew.sam"
+-'  1  0  ~/lab_6/RHnew.sam
+|4,39,1,0,1538597395,"~/lab_6/RHnew.sam"
 -'  2  0  ~/lab_6/RHnew.sam
 |4,39,2,0,1538597395,"~/lab_6/RHnew.sam"
 -'  1  0  ~/lab_6/RHnew.sam
@@ -71,6 +94,18 @@
 |4,39,333,0,1538597392,"~/lab_6/R_S.tab"
 -'  333  0  ~/lab_6/R_S.tab
 |4,39,333,0,1538597392,"~/lab_6/R_S.tab"
+-'  333  0  ~/lab_6/R_S.tab
+|4,39,333,0,1538597392,"~/lab_6/R_S.tab"
+-'  333  0  ~/lab_6/R_S.tab
+|4,39,333,0,1538597392,"~/lab_6/R_S.tab"
+-'  133  0  ~/lab_6/RHnew.sam
+|4,39,133,0,1538521414,"~/lab_6/RHnew.sam"
+-'  133  0  ~/lab_6/RHnew.sam
+|4,39,133,0,1538521414,"~/lab_6/RHnew.sam"
+-'  133  0  ~/lab_6/RHnew.sam
+|4,39,133,0,1538521414,"~/lab_6/RHnew.sam"
+-'  133  0  ~/lab_6/RHnew.sam
+|4,39,133,0,1538521414,"~/lab_6/RHnew.sam"
 -'  133  0  ~/lab_6/RHnew.sam
 |4,39,133,0,1538521414,"~/lab_6/RHnew.sam"
 -'  133  0  ~/lab_6/RHnew.sam
@@ -87,6 +122,22 @@
 |4,39,91,0,1538520390,"~/lab_6/RHnew.sam"
 -'  91  0  ~/lab_6/RHnew.sam
 |4,39,91,0,1538520390,"~/lab_6/RHnew.sam"
+-'  91  0  ~/lab_6/RHnew.sam
+|4,39,91,0,1538520390,"~/lab_6/RHnew.sam"
+-'  91  0  ~/lab_6/RHnew.sam
+|4,39,91,0,1538520390,"~/lab_6/RHnew.sam"
+-'  91  0  ~/lab_6/RHnew.sam
+|4,39,91,0,1538520390,"~/lab_6/RHnew.sam"
+-'  91  0  ~/lab_6/RHnew.sam
+|4,39,91,0,1538520390,"~/lab_6/RHnew.sam"
+-'  1  0  ~/lab_6/RHnew.tab
+|4,39,1,0,1538520386,"~/lab_6/RHnew.tab"
+-'  1  0  ~/lab_6/RHnew.tab
+|4,39,1,0,1538520386,"~/lab_6/RHnew.tab"
+-'  1  0  ~/lab_6/RHnew.tab
+|4,39,1,0,1538520386,"~/lab_6/RHnew.tab"
+-'  1  0  ~/lab_6/RHnew.tab
+|4,39,1,0,1538520386,"~/lab_6/RHnew.tab"
 -'  1  0  ~/lab_6/RHnew.tab
 |4,39,1,0,1538520386,"~/lab_6/RHnew.tab"
 -'  1  0  ~/lab_6/RHnew.tab
@@ -111,6 +162,46 @@
 |4,39,91,0,1538520127,"~/lab_6/RHnew.sam"
 -'  91  0  ~/lab_6/RHnew.sam
 |4,39,91,0,1538520127,"~/lab_6/RHnew.sam"
+-'  91  0  ~/lab_6/RHnew.sam
+|4,39,91,0,1538520127,"~/lab_6/RHnew.sam"
+-'  91  0  ~/lab_6/RHnew.sam
+|4,39,91,0,1538520127,"~/lab_6/RHnew.sam"
+-'  91  0  ~/lab_6/RHnew.sam
+|4,39,91,0,1538520127,"~/lab_6/RHnew.sam"
+-'  91  0  ~/lab_6/RHnew.sam
+|4,39,91,0,1538520127,"~/lab_6/RHnew.sam"
+-'  91  0  ~/lab_6/RHnew.sam
+|4,39,91,0,1538520127,"~/lab_6/RHnew.sam"
+-'  91  0  ~/lab_6/RHnew.sam
+|4,39,91,0,1538520127,"~/lab_6/RHnew.sam"
+-'  91  0  ~/lab_6/RHnew.sam
+|4,39,91,0,1538520127,"~/lab_6/RHnew.sam"
+-'  91  0  ~/lab_6/RHnew.sam
+|4,39,91,0,1538520127,"~/lab_6/RHnew.sam"
+-'  1  0  ~/lab_6/RHnew.sam
+|4,39,1,0,1538520080,"~/lab_6/RHnew.sam"
+-'  1  0  ~/lab_6/RHnew.sam
+|4,39,1,0,1538520080,"~/lab_6/RHnew.sam"
+-'  1  0  ~/lab_6/RHnew.sam
+|4,39,1,0,1538520080,"~/lab_6/RHnew.sam"
+-'  1  0  ~/lab_6/RHnew.sam
+|4,39,1,0,1538520080,"~/lab_6/RHnew.sam"
+-'  1  0  ~/lab_6/RHnew.sam
+|4,39,1,0,1538520080,"~/lab_6/RHnew.sam"
+-'  1  0  ~/lab_6/RHnew.sam
+|4,39,1,0,1538520080,"~/lab_6/RHnew.sam"
+-'  1  0  ~/lab_6/RHnew.sam
+|4,39,1,0,1538520080,"~/lab_6/RHnew.sam"
+-'  1  0  ~/lab_6/RHnew.sam
+|4,39,1,0,1538520080,"~/lab_6/RHnew.sam"
+-'  1  0  ~/lab_6/RHnew.sam
+|4,39,1,0,1538520080,"~/lab_6/RHnew.sam"
+-'  1  0  ~/lab_6/RHnew.sam
+|4,39,1,0,1538520080,"~/lab_6/RHnew.sam"
+-'  1  0  ~/lab_6/RHnew.sam
+|4,39,1,0,1538520080,"~/lab_6/RHnew.sam"
+-'  1  0  ~/lab_6/RHnew.sam
+|4,39,1,0,1538520080,"~/lab_6/RHnew.sam"
 -'  1  0  ~/lab_6/RHnew.sam
 |4,39,1,0,1538520080,"~/lab_6/RHnew.sam"
 -'  1  0  ~/lab_6/RHnew.sam
@@ -139,6 +230,10 @@
 |4,39,1,0,1538511262,"~/lab_6/RHnew.sam"
 -'  1  0  ~/lab_6/RHnew.sam
 |4,39,1,0,1538511262,"~/lab_6/RHnew.sam"
+-'  1  0  ~/lab_6/RHnew.sam
+|4,39,1,0,1538511262,"~/lab_6/RHnew.sam"
+-'  1  0  ~/lab_6/RHnew.sam
+|4,39,1,0,1538511262,"~/lab_6/RHnew.sam"
 -'  1  0  ~/lab_6/RHnew.tan
 |4,39,1,0,1538511257,"~/lab_6/RHnew.tan"
 -'  1  0  ~/lab_6/RHnew.tan
@@ -159,100 +254,16 @@
 |4,39,1,0,1538511257,"~/lab_6/RHnew.tan"
 -'  1  0  ~/lab_6/RHnew.tan
 |4,39,1,0,1538511257,"~/lab_6/RHnew.tan"
--'  1  0  ~/lab_6/RHnew.tan
-|4,39,1,0,1538511257,"~/lab_6/RHnew.tan"
--'  1  0  ~/lab_6/RHnew.tan
-|4,39,1,0,1538511257,"~/lab_6/RHnew.tan"
--'  1  0  ~/lab_6/RHnew.tan
-|4,39,1,0,1538511257,"~/lab_6/RHnew.tan"
--'  1  0  ~/lab_6/RHnew.tan
-|4,39,1,0,1538511257,"~/lab_6/RHnew.tan"
--'  1  0  ~/lab_6/RHnew.tan
-|4,39,1,0,1538511257,"~/lab_6/RHnew.tan"
--'  1  0  ~/lab_6/RHnew.tan
-|4,39,1,0,1538511257,"~/lab_6/RHnew.tan"
--'  1  0  ~/lab_6/RHnew.tan
-|4,39,1,0,1538511257,"~/lab_6/RHnew.tan"
--'  1  0  ~/lab_6/RHnew.tan
-|4,39,1,0,1538511257,"~/lab_6/RHnew.tan"
--'  1  0  ~/lab_6/RHnew.tan
-|4,39,1,0,1538511257,"~/lab_6/RHnew.tan"
--'  1  0  ~/lab_6/RHnew.tan
-|4,39,1,0,1538511257,"~/lab_6/RHnew.tan"
--'  1  0  ~/lab_6/RHnew.tan
-|4,39,1,0,1538511257,"~/lab_6/RHnew.tan"
--'  1  0  ~/lab_6/RHnew.tan
-|4,39,1,0,1538511257,"~/lab_6/RHnew.tan"
--'  1  0  ~/lab_6/RHnew.tan
-|4,39,1,0,1538511257,"~/lab_6/RHnew.tan"
--'  1  0  ~/lab_6/RHnew.tan
-|4,39,1,0,1538511257,"~/lab_6/RHnew.tan"
--'  1  0  ~/lab_6/RHnew.tan
-|4,39,1,0,1538511257,"~/lab_6/RHnew.tan"
--'  1  0  ~/lab_6/RHnew.tan
-|4,39,1,0,1538511257,"~/lab_6/RHnew.tan"
--'  1  0  ~/lab_6/RHnew.tan
-|4,39,1,0,1538511257,"~/lab_6/RHnew.tan"
--'  1  0  ~/lab_6/RHnew.tan
-|4,39,1,0,1538511257,"~/lab_6/RHnew.tan"
--'  1  0  ~/lab_6/RHnew.tan
-|4,39,1,0,1538511257,"~/lab_6/RHnew.tan"
--'  1  0  ~/lab_6/RHnew.tan
-|4,39,1,0,1538511257,"~/lab_6/RHnew.tan"
--'  1  0  ~/lab_6/RHnew.tan
-|4,39,1,0,1538511257,"~/lab_6/RHnew.tan"
--'  1  0  ~/lab_6/RHnew.tan
-|4,39,1,0,1538511257,"~/lab_6/RHnew.tan"
--'  1  0  ~/lab_6/RHnew.tan
-|4,39,1,0,1538511257,"~/lab_6/RHnew.tan"
--'  1  0  ~/lab_6/RHnew.tan
-|4,39,1,0,1538511257,"~/lab_6/RHnew.tan"
--'  4341  6  ~/lab_6/lab_6.ipynb
-|4,39,4341,6,1538198665,"~/lab_6/lab_6.ipynb"
--'  4341  6  ~/lab_6/lab_6.ipynb
-|4,39,4341,6,1538198665,"~/lab_6/lab_6.ipynb"
--'  4341  6  ~/lab_6/lab_6.ipynb
-|4,39,4341,6,1538198665,"~/lab_6/lab_6.ipynb"
--'  4341  6  ~/lab_6/lab_6.ipynb
-|4,39,4341,6,1538198665,"~/lab_6/lab_6.ipynb"
--'  4341  6  ~/lab_6/lab_6.ipynb
-|4,39,4341,6,1538198665,"~/lab_6/lab_6.ipynb"
--'  4341  6  ~/lab_6/lab_6.ipynb
-|4,39,4341,6,1538198665,"~/lab_6/lab_6.ipynb"
--'  4341  6  ~/lab_6/lab_6.ipynb
-|4,39,4341,6,1538198665,"~/lab_6/lab_6.ipynb"
--'  4341  6  ~/lab_6/lab_6.ipynb
-|4,39,4341,6,1538198665,"~/lab_6/lab_6.ipynb"
--'  4341  6  ~/lab_6/lab_6.ipynb
-|4,39,4341,6,1538198665,"~/lab_6/lab_6.ipynb"
--'  4341  6  ~/lab_6/lab_6.ipynb
-|4,39,4341,6,1538198665,"~/lab_6/lab_6.ipynb"
--'  4341  6  ~/lab_6/lab_6.ipynb
-|4,39,4341,6,1538198665,"~/lab_6/lab_6.ipynb"
--'  4341  6  ~/lab_6/lab_6.ipynb
-|4,39,4341,6,1538198665,"~/lab_6/lab_6.ipynb"
--'  4341  6  ~/lab_6/lab_6.ipynb
-|4,39,4341,6,1538198665,"~/lab_6/lab_6.ipynb"
--'  4341  6  ~/lab_6/lab_6.ipynb
-|4,39,4341,6,1538198665,"~/lab_6/lab_6.ipynb"
--'  4341  6  ~/lab_6/lab_6.ipynb
-|4,39,4341,6,1538198665,"~/lab_6/lab_6.ipynb"
--'  4341  6  ~/lab_6/lab_6.ipynb
-|4,39,4341,6,1538198665,"~/lab_6/lab_6.ipynb"
--'  4341  6  ~/lab_6/lab_6.ipynb
-|4,39,4341,6,1538198665,"~/lab_6/lab_6.ipynb"
--'  4341  6  ~/lab_6/lab_6.ipynb
-|4,39,4341,6,1538198665,"~/lab_6/lab_6.ipynb"
--'  4341  6  ~/lab_6/lab_6.ipynb
-|4,39,4341,6,1538198665,"~/lab_6/lab_6.ipynb"
--'  4341  6  ~/lab_6/lab_6.ipynb
-|4,39,4341,6,1538198665,"~/lab_6/lab_6.ipynb"
--'  4341  6  ~/lab_6/lab_6.ipynb
-|4,39,4341,6,1538198665,"~/lab_6/lab_6.ipynb"
--'  4341  6  ~/lab_6/lab_6.ipynb
-|4,39,4341,6,1538198665,"~/lab_6/lab_6.ipynb"
 
 # History of marks within files (newest to oldest):
+
+> ~/README.md
+	*	1538598249	0
+	"	2	56
+	^	2	57
+	.	2	56
+	+	1	7
+	+	2	56
 
 > ~/.gitignore
 	*	1538598112	0
