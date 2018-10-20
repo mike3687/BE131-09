@@ -4,4 +4,8 @@
 *.tab
 *.fastq
 .*
+*.bz2
+*.gz
+*.art
+
 !.gitignore

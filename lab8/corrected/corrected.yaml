@@ -1,0 +1,11 @@
+- "left reads":
+  - "/home/be131-08/lab8/corrected/illumina_reads_R1.00.0_0.cor.fastq.gz"
+  "orientation": "fr"
+  "right reads":
+  - "/home/be131-08/lab8/corrected/illumina_reads_R2.00.0_0.cor.fastq.gz"
+  "single reads":
+  - "/home/be131-08/lab8/corrected/illumina_reads_R_unpaired.00.0_0.cor.fastq.gz"
+  "type": "paired-end"
+- "single reads":
+  - "/data/lab8/pacbio_reads.fastq"
+  "type": "pacbio"
