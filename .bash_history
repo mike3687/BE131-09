@@ -309,3 +309,53 @@ rna_hmm3.py -i contigs.fasta -o contigs_hmm.gff
 bedtools getfasta -fi contigs.fasta -bed contigs_hmm.gff
 bedtools getfasta
 bedtools getfasta -fi contigs.fasta -bed contigs_hmm.gff
+ls
+git
+ls
+git push
+git status
+git add .
+ls
+git commit -m "Hello"
+git push origin master
+exit
+ls
+cd lab8
+bedtools getfasta -fi contigs.fasta -bed contigs_hmm.gff
+ls
+cd lab8
+ls
+git add .
+git commit -m "lab8 fin"
+git push origin master
+git add .
+git commit -m "lab8 fin"
+git push origin master
+ls
+cd lab10
+ls
+python nw_aligner.py example.fa BLOSUM62
+clear
+python nw_aligner.py example.fa BLOSUM62
+clear
+python nw_aligner.py example.fa BLOSUM62
+clear
+python nw_aligner.py example.fa BLOSUM62
+python nw_aligner.py BLOSUM62 example.fa 
+clear
+python nw_aligner.py BLOSUM62 example.fa 
+clear
+python nw_aligner.py BLOSUM62 example.fa 
+python nw_aligner.py BLOSUM62 tests.fa
+python nw_aligner.py BLOSUM62 test.fa
+python nw_aligner.py BLOSUM62 example.fa 
+clear
+python nw_aligner.py BLOSUM62 example.fa 
+python ttt.py BLOSUM62 example.fa 
+ls
+python tttt.py BLOSUM62 example.fa 
+python nw_aligner.py BLOSUM62 test.fa 
+python3 nw_aligner.py BLOSUM62 test.fa 
+python nw_aligner.py BLOSUM62 test.fa 
+python nw_aligner.py BLOSUM62 example.fa 
+bedtools getfasta
